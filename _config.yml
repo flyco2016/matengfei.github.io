@@ -2,3 +2,5 @@ deploy:
   type: git
   repo: git@github.com:matengfei/matengfei.github.io.git
   branch: master
+
+theme: jekyll-theme-leap-day
