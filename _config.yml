@@ -1,1 +1,4 @@
-theme: jekyll-theme-time-machine
+deploy:
+  type: git
+  repo: git@github.com:matengfei/matengfei.github.io.git
+  branch: master
